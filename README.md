@@ -1,4 +1,4 @@
-# 🗂️ Customised Virtual File System (CVFS)
+# Customised Virtual File System (CVFS)
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
