@@ -1,5 +1,3 @@
-# Customised_Virtual_File_System
-🗂️ Custom Virtual File System (CVFS)
 # 🗂️ Customised Virtual File System (CVFS)
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
